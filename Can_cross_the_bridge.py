@@ -1,0 +1,5 @@
+x=int(input())
+y=int(input())
+z=int(input())
+max=int((z-y)/x)
+print(max)
